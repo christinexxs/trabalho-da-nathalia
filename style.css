@@ -4,6 +4,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     height: 100vh;
     background-color: #4d0000;
     background: url(https://wallpapers.com/images/hd/garden-roses-pictures-l39p4r5vlrlrv6jz.jpg);
@@ -30,4 +31,17 @@ button {
 }
 button:hover {
     background-color: #713a3a;
+}
+.voltar{
+    width: 300px;
+    border-radius: 10px;
+    background-color: #610a0a;
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+    color: #ffff;
+
 }
