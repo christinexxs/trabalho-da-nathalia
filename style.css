@@ -1,16 +1,16 @@
 body {
    color: beige;
-    font-family: Arial, sans-serif;
+    font-family: "Gravitas One", static;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     height: 100vh;
-    background-color: #4d0000;
-    background: url(https://wallpapers.com/images/hd/garden-roses-pictures-l39p4r5vlrlrv6jz.jpg);
+    background-color: #6e300e;
+    background: url(https://st5.depositphotos.com/1042659/68984/i/450/depositphotos_689849742-stock-photo-rendering-magic-library-interior.jpg);
 }
 .container {
-    background: rgb(140, 43, 43);
+    background: rgb(96, 45, 15);
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(255, 249, 249, 0.1);
@@ -24,7 +24,7 @@ input {
 button {
     width: 100%;
     padding: 10px;
-    background-color: #610a0a;
+    background-color: #a84a18;
     color: rgb(255, 255, 255);
     border: none;
     cursor: pointer;
@@ -35,7 +35,7 @@ button:hover {
 .voltar{
     width: 300px;
     border-radius: 10px;
-    background-color: #610a0a;
+    background-color: #a84a18;
     color: rgb(255, 255, 255);
     border: none;
     cursor: pointer;
